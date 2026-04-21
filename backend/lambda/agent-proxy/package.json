@@ -1,0 +1,24 @@
+{
+  "name": "agent-proxy",
+  "version": "1.0.0",
+  "description": "Lambda proxy for streaming AgentCore responses",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "esbuild index.ts --bundle --platform=node --target=node20 --outdir=dist --format=cjs --external:@aws-sdk/*",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-agentcore": "^3.700.0",
+    "@aws-sdk/client-translate": "^3.700.0",
+    "@aws-sdk/client-comprehend": "^3.700.0",
+    "@aws-sdk/client-dynamodb": "^3.700.0",
+    "@aws-sdk/lib-dynamodb": "^3.700.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.145",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "esbuild": "^0.24.0"
+  }
+}

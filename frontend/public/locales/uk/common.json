@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "Українська"
+    },
+    "chat": {
+        "inputPlaceholder": "Введіть своє повідомлення...",
+        "sendButton": "Надіслати повідомлення",
+        "emptyState": "Почніть розмову, ввівши своє запитання нижче",
+        "thinking": "Думаю...",
+        "errorLabel": "Помилка:"
+    },
+    "sidebar": {
+        "title": "Часті Запитання",
+        "closeButton": "Закрити бічну панель",
+        "openButton": "Відкрити бічну панель",
+        "aboutUs": {
+            "title": "Про",
+            "description": "Асистент Ресурсів допомагає вам зв'язатися з місцевими службами та підтримкою у вашому регіоні. Знайдіть медичні, юридичні, освітні та соціальні послуги підтримки, адаптовані до ваших потреб та місцезнаходження."
+        },
+        "faq": {
+            "question1": "Які послуги доступні?",
+            "question2": "Як я можу знайти медичну допомогу?",
+            "question3": "Де я можу отримати юридичну допомогу?",
+            "question4": "Як отримати доступ до екстрених служб?"
+        },
+        "contact": {
+            "title": "Не впевнені, з чого почати?",
+            "callText": "Зателефонуйте нам за номером",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "Інші Ресурси",
+            "generalAssistance": "211 (Загальна Допомога)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "Переглянути ресурси",
+        "drawerTitle": "Збережені Ресурси",
+        "exportButton": "Експортувати як PDF",
+        "closeButton": "Закрити",
+        "emptyState": "Ще немає збережених ресурсів",
+        "resourcesFound": "ресурсів знайдено",
+        "categories": {
+            "Legal Services": "Юридичні Послуги",
+            "Medical Services": "Медичні Послуги",
+            "Mental Health Services": "Послуги Психічного Здоров'я",
+            "Education Services": "Освітні Послуги",
+            "Community Activities": "Громадські Заходи",
+            "Refugee Resettlement Agencies": "Агенції з Переселення Біженців",
+            "Other Assistance": "Інша Допомога"
+        }
+    },
+    "thinking": {
+        "title": "Думаю",
+        "collapsed": "Показати міркування",
+        "expanded": "Приховати міркування"
+    }
+}

@@ -1,0 +1,26 @@
+# Conversation Summarization for Immigration Chatbot
+
+When summarizing conversations, preserve these critical details:
+
+## Must Preserve:
+1. **User Location**: City, state, zip code (essential for resource searches)
+2. **User Situation**: Refugee/migrant status, current needs, urgent timelines
+3. **Resources Provided**: Categories and types of services already shared
+4. **Ongoing Needs**: Unresolved questions, services still needed
+5. **Key Constraints**: Language, accessibility, availability, preferences
+
+## Summary Format:
+```
+Location: [city/state or "not provided"]
+Situation: [brief context]
+Resources Provided: [categories]
+Needs: [unresolved items]
+Constraints: [key limitations]
+```
+
+## Omit:
+- Pleasantries and greetings
+- Tool usage details (keep only outcomes)
+- Redundant information
+
+Keep summaries factual, specific, and actionable for continuing assistance.

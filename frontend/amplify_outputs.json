@@ -1,0 +1,8 @@
+{
+  "version": "1",
+  "custom": {
+    "API": {
+      "endpoint": "https://igv4dvutp7jgumknx6q6vrtem40hwlqh.lambda-url.us-east-1.on.aws"
+    }
+  }
+}

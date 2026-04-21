@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "English"
+    },
+    "chat": {
+        "inputPlaceholder": "Type your message...",
+        "sendButton": "Send message",
+        "emptyState": "Start a conversation by typing your question below",
+        "thinking": "Thinking...",
+        "errorLabel": "Error:"
+    },
+    "sidebar": {
+        "title": "Frequently Asked Questions",
+        "closeButton": "Close sidebar",
+        "openButton": "Open sidebar",
+        "aboutUs": {
+            "title": "About",
+            "description": "Resource Assistant helps connect you with local services and support in your area. Find medical, legal, educational, and social support services tailored to your needs and location."
+        },
+        "faq": {
+            "question1": "What services are available?",
+            "question2": "How can I find medical help?",
+            "question3": "Where can I get legal assistance?",
+            "question4": "How do I access emergency services?"
+        },
+        "contact": {
+            "title": "Unsure of where to start?",
+            "callText": "Give us a call at",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "Other Resources",
+            "generalAssistance": "211 (General Assistance)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "View resources",
+        "drawerTitle": "Saved Resources",
+        "exportButton": "Export as PDF",
+        "closeButton": "Close",
+        "emptyState": "No resources saved yet",
+        "resourcesFound": "resources found",
+        "categories": {
+            "Legal Services": "Legal Services",
+            "Medical Services": "Medical Services",
+            "Mental Health Services": "Mental Health Services",
+            "Education Services": "Education Services",
+            "Community Activities": "Community Activities",
+            "Refugee Resettlement Agencies": "Refugee Resettlement Agencies",
+            "Other Assistance": "Other Assistance"
+        }
+    },
+    "thinking": {
+        "title": "Thinking",
+        "collapsed": "Show reasoning",
+        "expanded": "Hide reasoning"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "Português"
+    },
+    "chat": {
+        "inputPlaceholder": "Digite sua mensagem...",
+        "sendButton": "Enviar mensagem",
+        "emptyState": "Comece uma conversa digitando sua pergunta abaixo",
+        "thinking": "Pensando...",
+        "errorLabel": "Erro:"
+    },
+    "sidebar": {
+        "title": "Perguntas Frequentes",
+        "closeButton": "Fechar barra lateral",
+        "openButton": "Abrir barra lateral",
+        "aboutUs": {
+            "title": "Sobre",
+            "description": "O Assistente de Recursos ajuda você a se conectar com serviços locais e suporte em sua área. Encontre serviços de apoio médico, jurídico, educacional e social adaptados às suas necessidades e localização."
+        },
+        "faq": {
+            "question1": "Quais serviços estão disponíveis?",
+            "question2": "Como posso encontrar ajuda médica?",
+            "question3": "Onde posso obter assistência jurídica?",
+            "question4": "Como acesso serviços de emergência?"
+        },
+        "contact": {
+            "title": "Não tem certeza de por onde começar?",
+            "callText": "Ligue para nós em",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "Outros Recursos",
+            "generalAssistance": "211 (Assistência Geral)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "Ver recursos",
+        "drawerTitle": "Recursos Salvos",
+        "exportButton": "Exportar como PDF",
+        "closeButton": "Fechar",
+        "emptyState": "Nenhum recurso salvo ainda",
+        "resourcesFound": "recursos encontrados",
+        "categories": {
+            "Legal Services": "Serviços Jurídicos",
+            "Medical Services": "Serviços Médicos",
+            "Mental Health Services": "Serviços de Saúde Mental",
+            "Education Services": "Serviços Educacionais",
+            "Community Activities": "Atividades Comunitárias",
+            "Refugee Resettlement Agencies": "Agências de Reassentamento de Refugiados",
+            "Other Assistance": "Outra Assistência"
+        }
+    },
+    "thinking": {
+        "title": "Pensando",
+        "collapsed": "Mostrar raciocínio",
+        "expanded": "Ocultar raciocínio"
+    }
+}

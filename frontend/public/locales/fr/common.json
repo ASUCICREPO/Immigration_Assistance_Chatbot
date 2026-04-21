@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "Français"
+    },
+    "chat": {
+        "inputPlaceholder": "Tapez votre message...",
+        "sendButton": "Envoyer le message",
+        "emptyState": "Commencez une conversation en tapant votre question ci-dessous",
+        "thinking": "Réflexion...",
+        "errorLabel": "Erreur:"
+    },
+    "sidebar": {
+        "title": "Questions Fréquemment Posées",
+        "closeButton": "Fermer la barre latérale",
+        "openButton": "Ouvrir la barre latérale",
+        "aboutUs": {
+            "title": "À Propos",
+            "description": "L'Assistant de Ressources vous aide à vous connecter avec les services locaux et le soutien dans votre région. Trouvez des services de soutien médical, juridique, éducatif et social adaptés à vos besoins et à votre emplacement."
+        },
+        "faq": {
+            "question1": "Quels services sont disponibles?",
+            "question2": "Comment puis-je trouver une aide médicale?",
+            "question3": "Où puis-je obtenir une assistance juridique?",
+            "question4": "Comment accéder aux services d'urgence?"
+        },
+        "contact": {
+            "title": "Vous ne savez pas par où commencer?",
+            "callText": "Appelez-nous au",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "Autres Ressources",
+            "generalAssistance": "211 (Assistance Générale)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "Voir les ressources",
+        "drawerTitle": "Ressources Enregistrées",
+        "exportButton": "Exporter en PDF",
+        "closeButton": "Fermer",
+        "emptyState": "Aucune ressource enregistrée pour le moment",
+        "resourcesFound": "ressources trouvées",
+        "categories": {
+            "Legal Services": "Services Juridiques",
+            "Medical Services": "Services Médicaux",
+            "Mental Health Services": "Services de Santé Mentale",
+            "Education Services": "Services Éducatifs",
+            "Community Activities": "Activités Communautaires",
+            "Refugee Resettlement Agencies": "Agences de Réinstallation des Réfugiés",
+            "Other Assistance": "Autre Assistance"
+        }
+    },
+    "thinking": {
+        "title": "Réflexion",
+        "collapsed": "Afficher le raisonnement",
+        "expanded": "Masquer le raisonnement"
+    }
+}

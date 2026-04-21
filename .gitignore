@@ -1,0 +1,37 @@
+*.js
+!jest.config.js
+*.d.ts
+backend/node_modules
+frontend/node_modules
+backend/lambda/*/node_modules
+backend/.build
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Environment files
+.env
+.env.*.local
+.env.local
+
+# python
+__pycache__/
+*.py[cod]
+*.venv
+venv/
+*.egg-info/
+pip-log.txt
+*.python-version
+
+# IDEs, agentic tools, and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.claude
+*.kiro
+.vscode-*
+
+# intermediate zips
+*.zip
+*/python-layer

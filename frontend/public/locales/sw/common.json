@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "Kiswahili"
+    },
+    "chat": {
+        "inputPlaceholder": "Andika ujumbe wako hapa...",
+        "sendButton": "Tuma ujumbe",
+        "emptyState": "Anza mazungumzo kwa kuandika swali lako hapa chini",
+        "thinking": "Ninafikiria...",
+        "errorLabel": "Kosa:"
+    },
+    "sidebar": {
+        "title": "Maswali Yanayoulizwa Mara kwa Mara",
+        "closeButton": "Funga upau wa pembeni",
+        "openButton": "Fungua upau wa pembeni",
+        "aboutUs": {
+            "title": "Kuhusu",
+            "description": "Msaidizi wa Rasilimali hukusaidia kuunganishwa na huduma za ndani na msaada katika eneo lako. Pata huduma za msaada wa kimatibabu, kisheria, kielimu, na kijamii kulingana na mahitaji yako na eneo lako."
+        },
+        "faq": {
+            "question1": "Ni huduma gani zinazopatikana?",
+            "question2": "Ninawezaje kupata msaada wa kimatibabu?",
+            "question3": "Ninaweza kupata msaada wa kisheria wapi?",
+            "question4": "Ninawezaje kupata huduma za dharura?"
+        },
+        "contact": {
+            "title": "Huna uhakika wa wapi kuanza?",
+            "callText": "Tupige simu kwa",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "Rasilimali Nyingine",
+            "generalAssistance": "211 (Msaada wa Jumla)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "Tazama rasilimali",
+        "drawerTitle": "Rasilimali Zilizohifadhiwa",
+        "exportButton": "Hamisha kama PDF",
+        "closeButton": "Funga",
+        "emptyState": "Hakuna rasilimali zilizohifadhiwa bado",
+        "resourcesFound": "rasilimali zilizopatikana",
+        "categories": {
+            "Legal Services": "Huduma za Kisheria",
+            "Medical Services": "Huduma za Kimatibabu",
+            "Mental Health Services": "Huduma za Afya ya Akili",
+            "Education Services": "Huduma za Elimu",
+            "Community Activities": "Shughuli za Jamii",
+            "Refugee Resettlement Agencies": "Mashirika ya Uhamishaji wa Wakimbizi",
+            "Other Assistance": "Msaada Mwingine"
+        }
+    },
+    "thinking": {
+        "title": "Ninafikiria",
+        "collapsed": "Onyesha mawazo",
+        "expanded": "Ficha mawazo"
+    }
+}

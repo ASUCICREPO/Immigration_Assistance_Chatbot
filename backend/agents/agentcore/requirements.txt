@@ -1,0 +1,21 @@
+# Bedrock AgentCore (includes strands-agents)
+bedrock-agentcore>=1.2.0
+
+# Strands Agent Framework
+strands-agents>=1.23.0
+strands-agents-tools>=0.2.19
+
+# AWS SDK
+boto3>=1.42.34
+
+# Template rendering
+jinja2>=3.1.6
+
+# Data validation
+pydantic>=2.12.5
+
+# Environment variables
+python-dotenv>=1.2.1
+
+# OpenTelemetry for AgentCore observability
+aws-opentelemetry-distro>=0.14.2

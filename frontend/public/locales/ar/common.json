@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "العربية"
+    },
+    "chat": {
+        "inputPlaceholder": "اكتب رسالتك...",
+        "sendButton": "إرسال رسالة",
+        "emptyState": "ابدأ محادثة بكتابة سؤالك أدناه",
+        "thinking": "جاري التفكير...",
+        "errorLabel": "خطأ:"
+    },
+    "sidebar": {
+        "title": "الأسئلة الشائعة",
+        "closeButton": "إغلاق الشريط الجانبي",
+        "openButton": "فتح الشريط الجانبي",
+        "aboutUs": {
+            "title": "حول",
+            "description": "يساعدك مساعد الموارد في التواصل مع الخدمات المحلية والدعم في منطقتك. ابحث عن خدمات الدعم الطبية والقانونية والتعليمية والاجتماعية المصممة وفقًا لاحتياجاتك وموقعك."
+        },
+        "faq": {
+            "question1": "ما هي الخدمات المتاحة؟",
+            "question2": "كيف يمكنني العثور على مساعدة طبية؟",
+            "question3": "أين يمكنني الحصول على مساعدة قانونية؟",
+            "question4": "كيف يمكنني الوصول إلى خدمات الطوارئ؟"
+        },
+        "contact": {
+            "title": "غير متأكد من أين تبدأ؟",
+            "callText": "اتصل بنا على",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "موارد أخرى",
+            "generalAssistance": "211 (المساعدة العامة)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "عرض الموارد",
+        "drawerTitle": "الموارد المحفوظة",
+        "exportButton": "تصدير كملف PDF",
+        "closeButton": "إغلاق",
+        "emptyState": "لا توجد موارد محفوظة بعد",
+        "resourcesFound": "موارد تم العثور عليها",
+        "categories": {
+            "Legal Services": "الخدمات القانونية",
+            "Medical Services": "الخدمات الطبية",
+            "Mental Health Services": "خدمات الصحة النفسية",
+            "Education Services": "الخدمات التعليمية",
+            "Community Activities": "الأنشطة المجتمعية",
+            "Refugee Resettlement Agencies": "وكالات إعادة توطين اللاجئين",
+            "Other Assistance": "مساعدة أخرى"
+        }
+    },
+    "thinking": {
+        "title": "التفكير",
+        "collapsed": "إظهار التفكير",
+        "expanded": "إخفاء التفكير"
+    }
+}

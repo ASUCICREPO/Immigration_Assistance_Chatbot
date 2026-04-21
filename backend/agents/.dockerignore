@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+.env
+*.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Development
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Version control
+.git/
+.gitignore
+
+# Documentation
+docs/
+
+# CI/CD
+.github/
+
+# Bedrock AgentCore CLI generated files
+agentcore/.bedrock_agentcore/
+agentcore/.bedrock_agentcore.yaml
+
+# Tests
+tests/

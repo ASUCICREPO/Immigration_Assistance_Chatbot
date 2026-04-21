@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "پښتو"
+    },
+    "chat": {
+        "inputPlaceholder": "خپل پیغام دلته ولیکئ...",
+        "sendButton": "پیغام واستوئ",
+        "emptyState": "د خپلې پوښتنې لیکلو سره خبرې پیل کړئ",
+        "thinking": "فکر کوم...",
+        "errorLabel": "تېروتنه:"
+    },
+    "sidebar": {
+        "title": "ډیری پوښتل شوي پوښتنې",
+        "closeButton": "اړخیز بار بند کړئ",
+        "openButton": "اړخیز بار خلاص کړئ",
+        "aboutUs": {
+            "title": "په اړه",
+            "description": "د سرچینو مرستیال تاسو سره مرسته کوي چې ستاسو په سیمه کې د محلي خدماتو او ملاتړ سره وصل شئ. د خپلو اړتیاوو او ځای سره سم طبي، قانوني، تعلیمي او ټولنیز ملاتړ خدمات ومومئ."
+        },
+        "faq": {
+            "question1": "کوم خدمتونه شتون لري؟",
+            "question2": "زه څنګه طبي مرسته ومومم؟",
+            "question3": "زه چېرته قانوني مرسته ترلاسه کولی شم؟",
+            "question4": "زه څنګه عاجل خدماتو ته لاسرسی ومومم؟"
+        },
+        "contact": {
+            "title": "ډاډه نه یاست چې له کومه پیل وکړئ؟",
+            "callText": "موږ ته زنګ ووهئ په",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "نورې سرچینې",
+            "generalAssistance": "211 (عمومي مرسته)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "سرچینې وګورئ",
+        "drawerTitle": "خوندي شوي سرچینې",
+        "exportButton": "د PDF په توګه صادرول",
+        "closeButton": "بند کړئ",
+        "emptyState": "تر اوسه هیڅ سرچینې خوندي شوي نه دي",
+        "resourcesFound": "سرچینې وموندل شوې",
+        "categories": {
+            "Legal Services": "قانوني خدمتونه",
+            "Medical Services": "طبي خدمتونه",
+            "Mental Health Services": "رواني روغتیا خدمتونه",
+            "Education Services": "تعلیمي خدمتونه",
+            "Community Activities": "ټولنیز فعالیتونه",
+            "Refugee Resettlement Agencies": "د کډوالو د میشته کولو ادارې",
+            "Other Assistance": "نور مرستې"
+        }
+    },
+    "thinking": {
+        "title": "فکر کوم",
+        "collapsed": "استدلال وښایاست",
+        "expanded": "استدلال پټ کړئ"
+    }
+}

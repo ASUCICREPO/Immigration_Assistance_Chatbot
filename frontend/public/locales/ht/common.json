@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "Kreyòl Ayisyen"
+    },
+    "chat": {
+        "inputPlaceholder": "Ekri mesaj ou a isit...",
+        "sendButton": "Voye mesaj",
+        "emptyState": "Kòmanse yon konvèsasyon lè w ekri kesyon w anba a",
+        "thinking": "M ap reflechi...",
+        "errorLabel": "Erè:"
+    },
+    "sidebar": {
+        "title": "Kesyon yo Poze Souvan",
+        "closeButton": "Fèmen ba kote a",
+        "openButton": "Louvri ba kote a",
+        "aboutUs": {
+            "title": "Konsènan",
+            "description": "Asistan Resous ede w konekte ak sèvis lokal ak sipò nan zòn ou. Jwenn sèvis sipò medikal, legal, edikasyonèl, ak sosyal ki adapte pou bezwen ou ak kote w ye."
+        },
+        "faq": {
+            "question1": "Ki sèvis ki disponib?",
+            "question2": "Kijan mwen ka jwenn èd medikal?",
+            "question3": "Ki kote mwen ka jwenn asistans legal?",
+            "question4": "Kijan mwen ka jwenn aksè nan sèvis ijans?"
+        },
+        "contact": {
+            "title": "Ou pa sèten kote pou kòmanse?",
+            "callText": "Rele nou nan",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "Lòt Resous",
+            "generalAssistance": "211 (Asistans Jeneral)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "Gade resous yo",
+        "drawerTitle": "Resous Ki Anrejistre",
+        "exportButton": "Ekspòte kòm PDF",
+        "closeButton": "Fèmen",
+        "emptyState": "Pa gen resous ki anrejistre ankò",
+        "resourcesFound": "resous yo jwenn",
+        "categories": {
+            "Legal Services": "Sèvis Legal",
+            "Medical Services": "Sèvis Medikal",
+            "Mental Health Services": "Sèvis Sante Mantal",
+            "Education Services": "Sèvis Edikasyon",
+            "Community Activities": "Aktivite Kominotè",
+            "Refugee Resettlement Agencies": "Ajans Reyenstale Refijye",
+            "Other Assistance": "Lòt Asistans"
+        }
+    },
+    "thinking": {
+        "title": "M ap reflechi",
+        "collapsed": "Montre rezonman",
+        "expanded": "Kache rezonman"
+    }
+}

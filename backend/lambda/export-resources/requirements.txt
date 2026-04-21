@@ -1,0 +1,18 @@
+# Export Resources Lambda Requirements
+# Dependencies for PDF generation and resource retrieval
+
+# Shared services (imported from parent agents/ directory)
+# - agents.services.dynamodb_service
+# - agents.services.font_service
+# - agents.services.pdf_service
+
+# AWS SDK
+boto3>=1.35.0
+
+# PDF generation
+reportlab>=4.0.0
+fpdf2>=2.8.5
+uharfbuzz>=0.53.3
+
+# Environment variables
+python-dotenv>=1.0.0

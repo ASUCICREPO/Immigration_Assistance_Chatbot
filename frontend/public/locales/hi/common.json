@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "हिन्दी"
+    },
+    "chat": {
+        "inputPlaceholder": "अपना संदेश यहाँ लिखें...",
+        "sendButton": "संदेश भेजें",
+        "emptyState": "नीचे अपना प्रश्न लिखकर बातचीत शुरू करें",
+        "thinking": "सोच रहे हैं...",
+        "errorLabel": "त्रुटि:"
+    },
+    "sidebar": {
+        "title": "अक्सर पूछे जाने वाले प्रश्न",
+        "closeButton": "साइडबार बंद करें",
+        "openButton": "साइडबार खोलें",
+        "aboutUs": {
+            "title": "के बारे में",
+            "description": "संसाधन सहायक आपको अपने क्षेत्र में स्थानीय सेवाओं और सहायता से जोड़ने में मदद करता है। अपनी आवश्यकताओं और स्थान के अनुसार चिकित्सा, कानूनी, शैक्षिक और सामाजिक सहायता सेवाएं खोजें।"
+        },
+        "faq": {
+            "question1": "कौन सी सेवाएं उपलब्ध हैं?",
+            "question2": "मैं चिकित्सा सहायता कैसे प्राप्त कर सकता हूँ?",
+            "question3": "मुझे कानूनी सहायता कहाँ मिल सकती है?",
+            "question4": "मैं आपातकालीन सेवाओं तक कैसे पहुँच सकता हूँ?"
+        },
+        "contact": {
+            "title": "कहाँ से शुरू करें यह सुनिश्चित नहीं हैं?",
+            "callText": "हमें कॉल करें",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "अन्य संसाधन",
+            "generalAssistance": "211 (सामान्य सहायता)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "संसाधन देखें",
+        "drawerTitle": "सहेजे गए संसाधन",
+        "exportButton": "PDF के रूप में निर्यात करें",
+        "closeButton": "बंद करें",
+        "emptyState": "अभी तक कोई संसाधन सहेजा नहीं गया",
+        "resourcesFound": "संसाधन मिले",
+        "categories": {
+            "Legal Services": "कानूनी सेवाएं",
+            "Medical Services": "चिकित्सा सेवाएं",
+            "Mental Health Services": "मानसिक स्वास्थ्य सेवाएं",
+            "Education Services": "शिक्षा सेवाएं",
+            "Community Activities": "सामुदायिक गतिविधियाँ",
+            "Refugee Resettlement Agencies": "शरणार्थी पुनर्वास एजेंसियां",
+            "Other Assistance": "अन्य सहायता"
+        }
+    },
+    "thinking": {
+        "title": "सोच रहे हैं",
+        "collapsed": "तर्क दिखाएं",
+        "expanded": "तर्क छुपाएं"
+    }
+}

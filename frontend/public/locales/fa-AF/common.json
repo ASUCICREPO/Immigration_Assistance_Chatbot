@@ -1,0 +1,59 @@
+{
+    "header": {
+        "languageButton": "دری"
+    },
+    "chat": {
+        "inputPlaceholder": "پیام خود را بنویسید...",
+        "sendButton": "ارسال پیام",
+        "emptyState": "با نوشتن سوال خود در زیر گفتگو را شروع کنید",
+        "thinking": "در حال فکر کردن...",
+        "errorLabel": "خطا:"
+    },
+    "sidebar": {
+        "title": "سوالات متداول",
+        "closeButton": "بستن نوار کناری",
+        "openButton": "باز کردن نوار کناری",
+        "aboutUs": {
+            "title": "درباره",
+            "description": "دستیار منابع به شما کمک می‌کند تا با خدمات محلی و پشتیبانی در منطقه خود ارتباط برقرار کنید. خدمات پشتیبانی پزشکی، حقوقی، آموزشی و اجتماعی متناسب با نیازها و مکان خود را پیدا کنید."
+        },
+        "faq": {
+            "question1": "چه خدماتی موجود است؟",
+            "question2": "چگونه می‌توانم کمک پزشکی پیدا کنم؟",
+            "question3": "کجا می‌توانم کمک حقوقی دریافت کنم؟",
+            "question4": "چگونه به خدمات اضطراری دسترسی پیدا کنم؟"
+        },
+        "contact": {
+            "title": "مطمئن نیستید از کجا شروع کنید؟",
+            "callText": "با ما تماس بگیرید",
+            "phoneNumber": "xxx-xxx-xxxx"
+        },
+        "otherResources": {
+            "title": "منابع دیگر",
+            "generalAssistance": "211 (کمک عمومی)",
+            "email": "support@example.com"
+        }
+    },
+    "resources": {
+        "viewButton": "مشاهده منابع",
+        "drawerTitle": "منابع ذخیره شده",
+        "exportButton": "صادرات به عنوان PDF",
+        "closeButton": "بستن",
+        "emptyState": "هنوز هیچ منبعی ذخیره نشده است",
+        "resourcesFound": "منابع یافت شده",
+        "categories": {
+            "Legal Services": "خدمات حقوقی",
+            "Medical Services": "خدمات پزشکی",
+            "Mental Health Services": "خدمات بهداشت روانی",
+            "Education Services": "خدمات آموزشی",
+            "Community Activities": "فعالیت های اجتماعی",
+            "Refugee Resettlement Agencies": "آژانس های اسکان مجدد پناهندگان",
+            "Other Assistance": "کمک های دیگر"
+        }
+    },
+    "thinking": {
+        "title": "در حال فکر کردن",
+        "collapsed": "نمایش استدلال",
+        "expanded": "پنهان کردن استدلال"
+    }
+}
